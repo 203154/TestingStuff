@@ -1,1 +1,2 @@
 Changing newfile.txt in the local repository
+Changing newfile.txt in the remote repo
